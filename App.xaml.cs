@@ -36,7 +36,7 @@ namespace winapp
         public App()
         {
             this.InitializeComponent();
-            AppCenter.Start("cf550df4-836e-4649-b58f-ad3fc344dc00",
+            AppCenter.Start("c00e65da-7cb2-4c71-b7f2-f546f36bf4f3",
                   typeof(Analytics), typeof(Crashes));
         }
 
